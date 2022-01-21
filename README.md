@@ -8,11 +8,11 @@
 
 The first task is to visualise an earthquake data set.
 
-1. **Get your data set**
+1. **Get the data set**
 
    ![3-Data](Images/3-Data.png)
 
-   The USGS provides earthquake data in a number of different formats, updated every 5 minutes. A dataset is picked from the [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) page to visualise using a JSON representation of that data.
+   The USGS provides earthquake data in a number of different formats, updated every 5 minutes. A dataset is picked from the [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) page to visualise data using a JSON representation of that data.
 
    ![4-JSON](Images/4-JSON.png)
 
